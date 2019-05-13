@@ -1,0 +1,3 @@
+Google Chrome (commonly known simply as Chrome) is a cross-platform web browser developed by Google. It was 
+first released in 2008 for Microsoft Windows, and was later ported to Linux, macOS, iOS, and Android. The 
+browser is also the main component of Chrome OS, where it serves as the platform for web apps.
