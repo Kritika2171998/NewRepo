@@ -1,0 +1,11 @@
+On June 4, 2018, Microsoft announced its intent to acquire GitHub for US$7.5 billion, and the deal closed on Oct.
+ 26, 2018.[27] GitHub will continue to operate independently as a community, platform and business.
+ Under Microsoft, the service will be led by Xamarin's Nat Friedman, reporting to Scott Guthrie, 
+executive vice president of Microsoft Cloud and AI. Current CEO Chris Wanstrath will be retained as a 
+"technical fellow", also reporting to Guthrie. Microsoft had become a significant user of GitHub, using it to host 
+open source projects and development tools such as Chakra Core, PowerShell, and Visual Studio Code, and has backed other
+ open source projects such as Linux, and developed Git Virtual File System—a Git extension for managing large-scale
+ repositories (and itself has been adopted by GitHub).
+
+
+File changesss hehe
